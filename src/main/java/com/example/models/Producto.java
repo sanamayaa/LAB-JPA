@@ -16,7 +16,7 @@ import javax.persistence.TemporalType;
 
 /**
 *
-* @author Sacamayaa
+* @author Sanamayaa
 */
 
 @Entity
